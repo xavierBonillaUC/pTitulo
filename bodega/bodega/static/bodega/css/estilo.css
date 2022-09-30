@@ -1,0 +1,84 @@
+
+
+
+img.img-index {
+    display: block;
+    margin: auto;
+    border: 5px solid black;
+}
+
+
+
+.listado{
+    background: #b4fad9;
+    padding-left: 20px;
+    border: 2px solid black;
+}
+.tablacrud{
+    background: #b4fad9;
+    padding-left: 20px;
+    border: 2px solid black;
+}
+.footer-size{
+    width: 80%;
+    height: 20px;
+    color: white;
+}
+
+
+.contactanos{
+    width: 80%;
+    padding-left: 20%;
+    font-family: Verdana, Tahoma, sans-serif;
+    
+    
+    
+}
+.mjContacto{
+    text-align: center;
+    width: 45%;
+    margin: auto;
+    
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 850px) {
+    
+    }.logotipo {
+        top: -10px;
+        left: -5px;
+        margin: auto;
+        padding-right: 80px;
+    }
+    .loginUsuario {
+        top: -10px;
+        left: -5px;
+        margin: auto;
+    }
+    .registroBode{
+        top: -10px;
+        left: -5px;
+        margin: auto;
+        width: 50%;
+        height: 50%;
+    }.footer-size{
+        width: 100%;
+        
+    }
+    
+    
+    
